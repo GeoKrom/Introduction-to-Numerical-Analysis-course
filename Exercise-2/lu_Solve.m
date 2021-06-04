@@ -1,5 +1,3 @@
-%Giorgos Krommydas
-%A.M.:3260
 function [x,y] = lu_Solve (A,b)
   %Definition of the size
   [n n]= size(A);
