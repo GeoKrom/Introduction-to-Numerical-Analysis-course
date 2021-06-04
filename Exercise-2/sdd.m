@@ -1,5 +1,3 @@
-%Giorgos Krommydas
-%A.M.:3260
 function sum = sdd(A)
   %The size of the matrix
   [n n]=size(A);
