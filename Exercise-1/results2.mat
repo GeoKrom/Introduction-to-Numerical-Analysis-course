@@ -1,0 +1,32 @@
+Giorgos Krommydas
+A.M.: 3260
+
+# Created by Octave 3.8.1, Mon May 07 14:50:52 2018 EEST <cse63260@opti7020ws21.vlan74.mgm>
+# name: f
+# type: function handle
+@<anonymous>
+@(x) x .^ 2 + 2 * x - 3
+
+
+# name: df
+# type: function handle
+@<anonymous>
+@(x) 2 * (x) + 2
+
+
+# name: ans
+# type: matrix
+# rows: 10
+# columns: 3
+ 1 5 32
+ 2 2.333333333333333 7.111111111111112
+ 3 1.266666666666667 1.137777777777778
+ 4 1.015686274509804 0.06299115724721238
+ 5 1.000061036087587 0.0002441480757511272
+ 6 1.000000000931323 3.725290298461914e-09
+ 7 1 0
+ 8 1 0
+ 9 1 0
+ 10 1 0
+
+
