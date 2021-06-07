@@ -18,7 +18,6 @@ function [L,U] = lu (A)
     end
     %We define the diagonal of the Lower matrix
     L(i,i)=1;
-    ;
     
     % Finding U
     for k=i:n
